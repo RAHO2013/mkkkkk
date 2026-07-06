@@ -1,0 +1,20 @@
+KEA FULL SETUP WITH CODE IN EXCEL
+
+Files:
+- app.py: Streamlit app
+- kea_pdf_to_excel.py: command-line converter
+- requirements.txt: Python packages
+- RUN_APP_WINDOWS.bat: one-click Windows run file
+- scripts/master_console_script.txt: browser console code
+- templates/KEA_Master_Excel_With_Code_Blank.xlsx: blank Excel template
+- sample/KEA_Option_Reorder_Tool_DF505_With_Code.xlsx: sample Excel generated from uploaded PDF
+
+Use:
+1. Extract this ZIP.
+2. Double-click RUN_APP_WINDOWS.bat.
+3. Upload each student's KEA option report PDF.
+4. Edit New Option No in the app or Excel.
+5. Download Excel With Code.
+6. Copy Console Lines.
+7. Use Master Console Code on live KEA page.
+8. Verify and click Update Options manually.
